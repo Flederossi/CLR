@@ -2,7 +2,7 @@
 A little script to render images in the console.
 
 # Example
-![alt text](https://github.com/Flederossi/CLR/blob/main/src/testIMG.jpg)
+![alt text](https://github.com/Flederossi/CLR/blob/main/src/testIMG.png)
 ``` 
  Output:
  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
