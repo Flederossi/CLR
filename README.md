@@ -5,8 +5,12 @@ A little script to render images in the console.
 ```py
  from CLR import Renderer
  
+ filename = "testIMG.jpg"
+ size = (32, 32)
+ colordepth = 9
+ 
  renderer = Renderer()
- res = renderer.renderIMG("filename", (width, height), colordepth)
+ res = renderer.renderIMG(filename, size, colordepth)
  
  print(res)
 ```
