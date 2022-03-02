@@ -1,8 +1,18 @@
 # CLR
 A little script to render images in the console.
 
+# Usage
+```py
+ from CLR import Renderer
+ 
+ renderer = Renderer()
+ res = renderer.renderIMG("filename", (width, height), colordepth)
+ 
+ print(res)
+```
+
 # Example
-![alt text](https://github.com/Flederossi/CLR/blob/main/src/testIMG.png)
+![alt text](https://github.com/Flederossi/CLR/blob/main/src/testIMG.jpg)
 ``` 
  Output:
  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
