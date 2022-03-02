@@ -1,7 +1,7 @@
 # CLR
 A little script to render images in the console.
 
-# Usage
+## Usage
 ```py
  from CLR import Renderer
  
@@ -15,7 +15,7 @@ A little script to render images in the console.
  print(res)
 ```
 
-# Example
+## Example
 ![alt text](https://github.com/Flederossi/CLR/blob/main/src/testIMG.jpg)
 ``` 
  Output:
